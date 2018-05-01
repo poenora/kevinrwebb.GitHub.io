@@ -23,9 +23,9 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-1. List
-1. Hello
-4. help
+2. List
+3. Hello
+4. Help
 
 **Bold** and _Italic_ and `Code` text
 
