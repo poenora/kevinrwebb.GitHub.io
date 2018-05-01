@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ![reed_webelos1](https://user-images.githubusercontent.com/38883622/39476059-4c11e66e-4d20-11e8-9c79-a823ddd2fd6d.jpg)
-<a target="_blank" href="![reed_webelos1](https://user-images.githubusercontent.com/38883622/39476059-4c11e66e-4d20-11e8-9c79-a823ddd2fd6d.jpg)><img width="350"/></a>
+<a target="_blank" href="https://user-images.githubusercontent.com/38883622/39476059-4c11e66e-4d20-11e8-9c79-a823ddd2fd6d.jpg><img width="350"/></a>
 
 
 You can use the [editor on GitHub](https://github.com/kevinrwebb/kevinrwebb.GitHub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
